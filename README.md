@@ -1,4 +1,6 @@
 # windowed
-A browser which can upload photos to instagram directly from your deskop, made with electron
+Finally, full Instagram access to your desktop! This mobile version of IG will let you access on any desktop computer. You can view, and yes -- UPLOAD too! I promise! Try and see for yourself. It's FREE. You are welcome!
 
-Version V1.1.1
+Made with Electron.
+
+Version v1.0.0
