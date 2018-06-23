@@ -17,7 +17,7 @@ html {
 }
 
 #master-container {
-  background-color: white;
+  background-color: black;
   display: block;
   width: 100%;
   height: 100vh;  
@@ -79,7 +79,7 @@ body, html {
 .sessionbtn {
   width: 100%;
   margin: 0 0 0 0;
-  font-size: 20px;
+  font-size: 18px;
   cursor: pointer;
   border: none;
   display: flex;
@@ -100,7 +100,7 @@ body, html {
   cursor: default;
 }
 .accountName {
-  height: 29px;
+  height: 18px;
 }
 
 
